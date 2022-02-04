@@ -20,15 +20,15 @@
   ],
   "env": {
     "Prefix": {
-      "description": "The Discord Bot Prefix",
+      "description": ".",
       "required": "true"
     },
     "Token": {
-      "description": "The Discord Bot Token (https://discord.com/developers/applications)",
+      "description": "OTM4ODc2NjIxODg3MjU0NjM4.Yfwq_g.S6NPsEyu27xR3wn6B6cu-oceouU",
       "required": "true"
     },
     "Discord_ClientID": {
-      "description": "The Discord Bot ClientID",
+      "description": "938876621887254638",
       "required": "true"
     },
     "Discord_ClientSecret": {
@@ -40,11 +40,11 @@
       "value": "http://localhost"
     },
     "Spotify_ClientID": {
-      "description": "Spotify ClientID. This is used if you want to use Spotify features for your bot. (https://developer.spotify.com/dashboard/)",
+      "description": "6942b3d74cda4f839667bc20a30e7e02",
       "required": "true"
     },
     "Spotify_ClientSecret": {
-      "description": "Spotify ClientSecret. This is used if you want to use Spotify features for your bot. (https://developer.spotify.com/dashboard/)",
+      "description": "82bc6abe0b034926a58cae2125824c78",
       "required": "true"
     }
   }
